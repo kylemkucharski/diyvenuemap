@@ -23,6 +23,11 @@
   h3 {
     font-family: 'Roboto', sans-serif;
   }
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 12px;
+  }
   .parallax {
     display: none;
   }
@@ -47,7 +52,7 @@
     /* The image used */
     background-image: url("images/diyvenuebig2.jpg");
     /* Set a specific height */
-    height: 300px;
+    height: 400px;
     width: 100%;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -61,6 +66,11 @@
   }
   h3 {
     font-family: 'Roboto', sans-serif;
+  }
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 12px;
   }
 }
 
@@ -84,11 +94,16 @@
   h3 {
     font-family: 'Roboto', sans-serif;
   }
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 12px;
+  }
   .parallax {
     /* The image used */
     background-image: url("images/diyvenuebig2.jpg");
     /* Set a specific height */
-    height: 500px;
+    height: 400px;
     width: 100%;
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -107,6 +122,16 @@
     margin-left: 30px;
     text-align: justify;
     font-family: 'Roboto', sans-serif;
+  }
+  .firstcharacter {
+    color: #903;
+    float: left;
+    font-family: Georgia;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
   }
 }
 
@@ -141,7 +166,22 @@
   h3 {
     font-family: 'Roboto', sans-serif;
   }
+  h4 {
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 12px;
+  }
   .images {
     display: none;
+  }
+  .firstcharacter {
+    color: #903;
+    float: left;
+    font-family: Georgia;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
   }
 }
